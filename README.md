@@ -4,7 +4,7 @@ Criando uma API REST com Express
 Este é um projeto bem simples de implementação de uma API REST
 utilizando [Node.js](https://nodejs.org/en/) e o _framework_ [Express](https://expressjs.com/).
 
-criando um CRUD salvando-o em mémoria, com id autoincremental.
+criando um CRUD salvando os dados em mémoria e com id AutoIncrement.
 
 # Instalação
 
