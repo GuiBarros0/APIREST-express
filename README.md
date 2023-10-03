@@ -34,15 +34,12 @@ npm start
 Implementa os métodos DELETE, GET, POST e PUT dentro da `/database`:
 
 ``` 
-curl localhost:3003/database/1
-{"name":"Notebook","preco":2000.00
+curl localhost:3003/database
+{"name":"Notebook","preco":2000.00}
 ```
 
 
 # Testes
 
-Para executar a rotina de testes, use:
+Para executar a rotina de testes, use sua plataforma de API:
 
-``` shell
-npm start
-```
